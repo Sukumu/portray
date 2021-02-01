@@ -1,0 +1,3 @@
+[build]
+  command = "portray as_html"
+  publish = "site"
